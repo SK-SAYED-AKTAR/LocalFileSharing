@@ -17,7 +17,7 @@
    Just copy paste the URL= 192.168.1.2:8080(this is example url, you might have different url) in your browser(Chrome/Brave/Edge etc.).\
    You can get the above mentioned url by following step:-\
       i) Open your terminal or cmd(windows)\
-      ii) type ifconfig(Linux) or ipconfig(windows)\
+      ii) type ifconfig(Linux) or ipconfig(windows)
       
 ### FeEl fReE to uSe tHis CodE
       
