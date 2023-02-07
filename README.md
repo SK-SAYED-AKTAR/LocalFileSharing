@@ -5,7 +5,8 @@
 
 ## Installation
    1. pip3 install fastapi[all]
-   2. pip3 install uvicorn 
+   2. pip3 install uvicorn\
+   #### Please use pip if you're using Windows 
 
 
 
